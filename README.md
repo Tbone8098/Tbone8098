@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my github! I am Tyler Thibault, I am a full stack developer that currently teaching python with a flask framework at the Coding Dojo, and it is great! I am also a fulltime RVer and my wife and I and our 2 boys live on the road, recently got starlink which is providing much needed stability when it comes to internet access. 
 
-## What I am currently Working on...
+## What I am currently working on...
 
 I am currently working on a blogging website for my wife so she can share our experiences on the road with family as well as put out information pertaining to her REFIT class that she holds at the RV parks we are at. You can find this site [here](http://theadventureawaits.live/) or at "theadventureawaits.live". This website was build on python and flask using MySQL as a database. However, I am in the process of overhauling this website to be build on NextJS which is built on react. I am going to use the Prisma package to build it with a sqlite database at first. 
 
